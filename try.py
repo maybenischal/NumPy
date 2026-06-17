@@ -1,2 +1,2 @@
-print(hello world)
-//okthis is 
+import numpy as np
+print (np.__version__)

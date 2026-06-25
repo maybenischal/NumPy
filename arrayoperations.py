@@ -22,3 +22,12 @@ print("-------------------------------------")
 print(arr1.sum()) #Sum of elements in array
 print(arr1.sum(axis = 0)) #sum along axis of row
 print(arr1.sum(axis=1)) #sum along axis of column
+
+print("-------------------------------------")
+print("-------------------------------------")
+
+print(arr1.max())
+print(arr1.min())
+
+print("-------------------------------------")
+print("-------------------------------------")
